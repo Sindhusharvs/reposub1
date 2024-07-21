@@ -3,16 +3,17 @@ from bs4 import BeautifulSoup
 import re
 import logging
 import os
-# import sys
+import sys
 # sys.path.append("/root/central/PRE_CATS_OTTO/")
 # from migration.db_class import Database_Manager
 import datetime
 # FERACK2 = Database_Manager('FERACK2','SOV')
 # FERACK34 = Database_Manager('FERACK34','ISIN')
 from collections import defaultdict
+FERACK2 = "hello"
 
 # logging.basicConfig(filename='Canada.log',filemode= '+a',format='%(asctime)s %(message)s',level = logging.INFO)
-
+a ='b'
 
 
 # try:
